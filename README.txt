@@ -1,0 +1,1 @@
+Open index.html to preview. The images folder contains the product photos supplied by Dimple. Upload the complete folder to your hosting service to publish it.
